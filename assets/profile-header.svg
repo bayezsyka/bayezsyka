@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">A. Faidhullah Farros Basykailakh</title>
+  <desc id="description">A systems profile visual for a full-stack engineer working across AI, IoT, and infrastructure.</desc>
+  <rect width="1200" height="360" fill="#07130f"/>
+  <rect x="24" y="24" width="1152" height="312" rx="8" fill="#0b1d17" stroke="#245242"/>
+  <g fill="none" stroke="#245242" stroke-width="1">
+    <path d="M72 92H1128M72 268H1128"/>
+    <path d="M72 92V268M1128 92V268"/>
+    <path d="M312 92V268M888 92V268" stroke-dasharray="4 8"/>
+  </g>
+  <g fill="none" stroke="#75e6b2" stroke-width="2">
+    <path d="M72 208H196L232 184H404L452 216H630L676 178H834L880 208H1128"/>
+    <circle cx="196" cy="208" r="5" fill="#75e6b2"/>
+    <circle cx="404" cy="184" r="5" fill="#75e6b2"/>
+    <circle cx="630" cy="216" r="5" fill="#75e6b2"/>
+    <circle cx="834" cy="178" r="5" fill="#75e6b2"/>
+    <circle cx="1128" cy="208" r="5" fill="#75e6b2"/>
+  </g>
+  <g fill="#75e6b2" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">
+    <text x="72" y="64" font-size="12">SYSTEMS PROFILE / 2026</text>
+    <text x="72" y="304" font-size="12">SOFTWARE · AI · IOT · INFRASTRUCTURE</text>
+  </g>
+  <g fill="#effff6" font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="122" font-size="35" font-weight="700">A. FAIDHULLAH FARROS BASYKAILAKH</text>
+    <text x="72" y="156" font-size="18">FULL-STACK ENGINEER / BUILDER</text>
+  </g>
+  <g fill="#75e6b2" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.5">
+    <text x="208" y="246">APPLICATIONS</text>
+    <text x="420" y="246">INTELLIGENCE</text>
+    <text x="646" y="246">DEVICES</text>
+    <text x="850" y="246">PLATFORM</text>
+  </g>
+</svg>

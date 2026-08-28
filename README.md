@@ -1,54 +1,72 @@
 <div align="center">
 
-# A. Faidhullah Farros Basykailakh
+<img src="./assets/profile-header.svg" alt="A. Faidhullah Farros Basykailakh. Systems engineer working across software, AI, IoT, and infrastructure." width="100%" />
 
-**Full-stack Engineering · AI & IoT · Infrastructure**
+<br />
 
-[Sangkolo](https://sangkolo.com) · [Email](mailto:farrosy6@gmail.com) · [GitHub](https://github.com/bayezsyka)
+[Sangkolo](https://sangkolo.com) &nbsp;·&nbsp; [Email](mailto:farrosy6@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/bayezsyka)
 
 </div>
 
-## About
+```text
+SYSTEM PROFILE
+Building production-minded digital systems where applications, models, devices,
+and infrastructure meet real operational work.
+```
 
-I build digital products and operational systems across full-stack engineering, applied AI, IoT, and infrastructure.
+## Operating Areas
 
-My work includes business applications, automation, computer vision research, embedded monitoring, server administration, and production deployment. I am pursuing a double-degree path in **Computer Engineering** and **Law**, while developing technology products through **Sangkolo Mitra Teknologi**.
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <strong>Software</strong><br /><br />
+      Full-stack applications, business systems, dashboards, APIs, CMS, LMS, and workflow automation.
+    </td>
+    <td width="25%" valign="top">
+      <strong>AI &amp; Research</strong><br /><br />
+      Computer vision, object detection, classification, and predictive systems.
+    </td>
+    <td width="25%" valign="top">
+      <strong>IoT</strong><br /><br />
+      Embedded monitoring, sensor networks, automation, and real-time communication.
+    </td>
+    <td width="25%" valign="top">
+      <strong>Infrastructure</strong><br /><br />
+      Self-hosted services, containers, virtualization, networking, and deployment workflows.
+    </td>
+  </tr>
+</table>
 
-## Focus
+## Technical Field Notes
 
-| Area | What I build |
-| --- | --- |
-| Software engineering | Business applications, dashboards, CMS, LMS, APIs, and workflow automation. |
-| AI and research | Computer vision, object detection, classification, and predictive systems. |
-| IoT | Embedded monitoring, sensor networks, automation, and real-time device communication. |
-| Infrastructure | Self-hosted services, containers, virtualization, networking, and deployment pipelines. |
+| Domain | Toolkit |
+| :--- | :--- |
+| `application` | Laravel · PHP · React · Next.js · Inertia.js · JavaScript · Tailwind CSS · MySQL |
+| `intelligence` | Python · OpenCV · YOLO · LSTM · XGBoost |
+| `connected systems` | ESP32 · ESP8266 · MQTT |
+| `platform` | Linux · Proxmox · LXC · Docker · Cloudflare |
 
-## Core Technologies
+## Project Index
 
-| Area | Technologies |
-| --- | --- |
-| Application development | Laravel, PHP, React, Next.js, Inertia.js, JavaScript, Tailwind CSS, MySQL |
-| AI and data | Python, OpenCV, YOLO, LSTM, XGBoost |
-| IoT and infrastructure | ESP32, ESP8266, MQTT, Linux, Proxmox, LXC, Docker, Cloudflare |
+| Repository | Work |
+| :--- | :--- |
+| [`sangkolo`](https://github.com/bayezsyka/sangkolo) | Technology products and operational systems developed through Sangkolo Mitra Teknologi. |
+| [`maggot-paper`](https://github.com/bayezsyka/maggot-paper) | Computer vision and applied machine learning research. |
+| [`alanwarpakijangan`](https://github.com/bayezsyka/alanwarpakijangan) | Web-based institutional system. |
+| [`shoewash-api`](https://github.com/bayezsyka/shoewash-api) | Backend API for operational workflows. |
 
-## Selected Work
+<details>
+<summary><strong>About the builder</strong></summary>
+<br />
 
-| Project | Overview |
-| --- | --- |
-| [Sangkolo](https://github.com/bayezsyka/sangkolo) | Technology products and operational systems developed through Sangkolo Mitra Teknologi. |
-| [Maggot Paper](https://github.com/bayezsyka/maggot-paper) | Research work involving computer vision and applied machine learning. |
-| [Al Anwar Pakijangan](https://github.com/bayezsyka/alanwarpakijangan) | Web-based institutional system. |
-| [Shoewash API](https://github.com/bayezsyka/shoewash-api) | Backend API for operational workflows. |
+I am pursuing a double-degree path in <strong>Computer Engineering</strong> and <strong>Law</strong>. My work spans the full delivery path, from the application interface and machine-learning model to embedded devices, server infrastructure, and production deployment.
 
-## Currently Interested In
-
-- Production-ready Laravel and React applications
-- Practical computer vision and applied machine learning
-- Connected devices, monitoring, and automation
-- Self-hosted infrastructure and reliable deployment workflows
+</details>
 
 <div align="center">
 
-<sub>Build systems that are useful, measurable, maintainable, and deployable.</sub>
+<br />
+
+<sub>Useful systems. Clear constraints. Reliable delivery.</sub>
 
 </div>
